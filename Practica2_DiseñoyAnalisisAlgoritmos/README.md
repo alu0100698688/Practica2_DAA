@@ -1,4 +1,4 @@
-** Práctica 2: Técnica de diseño de algoritmos Divide y Vencerás **
+**Práctica 2: Técnica de diseño de algoritmos Divide y Vencerás**
 ===============================================================
 
 ## Actividades a realizar
